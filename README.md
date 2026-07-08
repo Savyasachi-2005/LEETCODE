@@ -75,3 +75,15 @@ Explore more GitHub workflows to enhance your repository!
 This repository is for educational purposes. Feel free to use the solutions as a reference, but always try solving the problems yourself first!  
 
 ---  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0135-candy](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0135-candy) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0135-candy) |
+<!---LeetCode Topics End-->
