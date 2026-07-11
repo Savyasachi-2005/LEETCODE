@@ -81,9 +81,15 @@ This repository is for educational purposes. Feel free to use the solutions as a
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0135-candy) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0135-candy) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
