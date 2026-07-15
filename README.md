@@ -84,6 +84,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0011-container-with-most-water](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
@@ -106,6 +107,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
@@ -122,4 +124,16 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0209-minimum-size-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
