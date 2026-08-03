@@ -85,6 +85,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0135-candy](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0560-subarray-sum-equals-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0877-stone-game) |
@@ -104,6 +105,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -127,6 +129,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
