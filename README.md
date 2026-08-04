@@ -109,6 +109,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 ## Hash Table
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0299-bulls-and-cows) |
 | [0560-subarray-sum-equals-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
@@ -167,6 +168,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0299-bulls-and-cows) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 ## Stack
 |  |
@@ -190,4 +192,8 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## String
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
