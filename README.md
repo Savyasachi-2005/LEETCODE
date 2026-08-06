@@ -82,6 +82,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -106,6 +107,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0135-candy) |
 ## Two Pointers
@@ -173,6 +175,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
