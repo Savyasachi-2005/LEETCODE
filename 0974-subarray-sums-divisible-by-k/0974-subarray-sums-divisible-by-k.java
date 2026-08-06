@@ -8,9 +8,9 @@ class Solution {
             sum+=nums[i];
             int remind=(sum%k+k)%k;
             if(map.containsKey(remind)){
-                ct+=map.getOrDefault(remind,0);
-                map.put(remind,map.getOrDefault(remind,0)+1);
-            }else map.put(remind,map.getOrDefault(remind,0)+1);
+                ct+=map.get(remind);
+            }
+            map.put(remind,map.getOrDefault(remind,0)+1);
         }
         return ct;
     }
