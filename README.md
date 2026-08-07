@@ -174,6 +174,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0150-evaluate-reverse-polish-notation](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -240,4 +241,8 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | ------- |
 | [0322-coin-change](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0518-coin-change-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
