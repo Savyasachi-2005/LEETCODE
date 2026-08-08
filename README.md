@@ -179,6 +179,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0072-edit-distance) |
 | [0322-coin-change](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0877-stone-game) |
@@ -217,6 +218,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0072-edit-distance) |
 | [0299-bulls-and-cows](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0299-bulls-and-cows) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Matrix
