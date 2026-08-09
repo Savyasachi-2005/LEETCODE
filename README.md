@@ -82,6 +82,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0135-candy) |
@@ -178,6 +179,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0072-edit-distance) |
 | [0322-coin-change](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0322-coin-change) |
@@ -205,6 +207,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
