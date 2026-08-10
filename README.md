@@ -119,6 +119,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0344-reverse-string) |
@@ -187,6 +188,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0072-edit-distance) |
@@ -232,6 +234,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0299-bulls-and-cows](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0299-bulls-and-cows) |
@@ -264,4 +267,8 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
