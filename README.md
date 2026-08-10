@@ -182,6 +182,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0168-excel-sheet-column-title](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0523-continuous-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -237,6 +238,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0005-longest-palindromic-substring](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0299-bulls-and-cows](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0680-valid-palindrome-ii) |
