@@ -119,6 +119,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
@@ -230,6 +231,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0299-bulls-and-cows](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0344-reverse-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
