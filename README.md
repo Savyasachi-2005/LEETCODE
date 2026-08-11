@@ -249,6 +249,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0299-bulls-and-cows](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0520-detect-capital](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
