@@ -124,6 +124,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0011-container-with-most-water](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
@@ -134,6 +135,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0438-find-all-anagrams-in-a-string](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
@@ -147,6 +149,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0209-minimum-size-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
@@ -253,6 +256,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0344-reverse-string](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
