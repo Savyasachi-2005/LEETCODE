@@ -107,6 +107,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [1314-matrix-block-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/1314-matrix-block-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Savyasachi-2005/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Savyasachi-2005/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -137,6 +138,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0974-subarray-sums-divisible-by-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Savyasachi-2005/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -150,6 +152,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0992-subarrays-with-k-different-integers](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Savyasachi-2005/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
