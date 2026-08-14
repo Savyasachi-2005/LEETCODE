@@ -164,6 +164,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
@@ -198,6 +199,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0523-continuous-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0523-continuous-subarray-sum) |
@@ -298,4 +300,8 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
