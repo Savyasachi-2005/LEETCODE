@@ -95,6 +95,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0518-coin-change-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0739-daily-temperatures) |
@@ -164,6 +165,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
