@@ -91,6 +91,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0150-evaluate-reverse-polish-notation](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -128,6 +129,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0005-longest-palindromic-substring](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0647-palindromic-substrings) |
@@ -210,6 +212,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0069-sqrtx](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
