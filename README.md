@@ -97,6 +97,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0215-kth-largest-element-in-an-array](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0523-continuous-subarray-sum) |
@@ -323,4 +324,8 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
