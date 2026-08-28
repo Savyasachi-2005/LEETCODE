@@ -99,6 +99,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0239-sliding-window-maximum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -129,6 +130,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0055-jump-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 ## Two Pointers
 |  |
@@ -184,6 +186,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -197,6 +200,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
@@ -237,6 +241,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0055-jump-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0072-edit-distance) |
 | [0322-coin-change](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0877-stone-game) |
