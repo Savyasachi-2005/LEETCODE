@@ -1,12 +1,10 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
-        final int inf=Integer.MAX_VALUE;
-        int minodd=inf;
+        int min=Integer.MAX_VALUE;
+        for(int ele:nums1)min=Math.min(min,ele);
+        if(min%2==1)return true;
         for(int ele:nums1){
-            if(ele%2==1)minodd=Math.min(ele,minodd);
-        }
-        for(int ele:nums1){
-            if(ele%2==0 && minodd!=inf && ele<minodd)return false;
+            if(ele%2==1)return false;
         }
         return true;
     }
