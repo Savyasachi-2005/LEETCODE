@@ -126,6 +126,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Savyasachi-2005/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3731-find-missing-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -239,6 +240,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0523-continuous-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
