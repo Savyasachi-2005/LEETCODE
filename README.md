@@ -125,6 +125,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Savyasachi-2005/LEETCODE/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Savyasachi-2005/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
@@ -164,6 +165,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0992-subarrays-with-k-different-integers](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Savyasachi-2005/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -317,6 +319,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0074-search-a-2d-matrix](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [1314-matrix-block-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/1314-matrix-block-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -325,6 +328,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0322-coin-change) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -351,4 +355,5 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0260-single-number-iii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
