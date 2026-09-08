@@ -243,6 +243,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0523-continuous-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3870-count-commas-in-range](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
