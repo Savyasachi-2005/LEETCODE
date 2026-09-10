@@ -276,6 +276,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0496-next-greater-element-i](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0901-online-stock-span) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
@@ -283,6 +284,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0496-next-greater-element-i](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0901-online-stock-span) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -361,4 +363,12 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | ------- |
 | [0260-single-number-iii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0260-single-number-iii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
