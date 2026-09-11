@@ -110,6 +110,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0704-binary-search](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0877-stone-game) |
@@ -275,6 +276,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0150-evaluate-reverse-polish-notation](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0901-online-stock-span) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -371,4 +373,8 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
