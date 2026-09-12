@@ -241,6 +241,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0150-evaluate-reverse-polish-notation](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0224-basic-calculator) |
 | [0523-continuous-subarray-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Savyasachi-2005/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -274,6 +275,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -314,6 +316,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0076-minimum-window-substring](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0168-excel-sheet-column-title) |
+| [0224-basic-calculator](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0224-basic-calculator) |
 | [0299-bulls-and-cows](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -377,4 +380,8 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0735-asteroid-collision) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
