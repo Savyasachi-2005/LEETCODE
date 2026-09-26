@@ -238,6 +238,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0189-rotate-array) |
@@ -254,6 +255,7 @@ This repository is for educational purposes. Feel free to use the solutions as a
 | [0005-longest-palindromic-substring](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0072-edit-distance) |
 | [0322-coin-change](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0410-split-array-largest-sum) |
@@ -384,4 +386,8 @@ This repository is for educational purposes. Feel free to use the solutions as a
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0224-basic-calculator) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Savyasachi-2005/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
